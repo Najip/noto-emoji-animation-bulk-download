@@ -1,6 +1,6 @@
 # Noto Emoji Animation Bulk Download
 
-This script allows for the automated downloading of animated emojis from the Google Fonts' Noto Emoji project. It leverages Selenium for navigating the website, identifying the animations, and downloading them in bulk.
+This script allows for the automated downloading of animated emojis from the [Google Fonts' Noto Emoji](https://googlefonts.github.io/noto-emoji-animation/) project. It leverages Selenium for navigating the website, identifying the animations, and downloading them in bulk.
 
 ## Getting Started
 

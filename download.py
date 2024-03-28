@@ -6,7 +6,7 @@ import requests
 import os
 
 # Specify the path to ChromeDriver
-chrome_driver_path = "D:\emoji-downloader-animated-noto\chromedriver-win64\chromedriver.exe"  # Update this path
+chrome_driver_path = "path/to/chromedriver.exe"  # Update this path
 service = Service(executable_path=chrome_driver_path)
 
 # Set up Selenium WebDriver with the updated method
